@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Oriented Abusing", "Object Oriented Abusing\Object Oriented Abusing.csproj", "{2AF30AB7-A0AF-457F-BBAD-A9585F84161D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF30AB7-A0AF-457F-BBAD-A9585F84161D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF30AB7-A0AF-457F-BBAD-A9585F84161D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF30AB7-A0AF-457F-BBAD-A9585F84161D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF30AB7-A0AF-457F-BBAD-A9585F84161D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E80241A-36C6-4897-BEB8-2FD6C4F45FD6}
+	EndGlobalSection
+EndGlobal

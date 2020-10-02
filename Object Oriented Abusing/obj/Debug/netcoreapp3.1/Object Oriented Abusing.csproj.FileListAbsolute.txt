@@ -1,0 +1,13 @@
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\bin\Debug\netcoreapp3.1\Object Oriented Abusing.exe
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\bin\Debug\netcoreapp3.1\Object Oriented Abusing.deps.json
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\bin\Debug\netcoreapp3.1\Object Oriented Abusing.runtimeconfig.json
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\bin\Debug\netcoreapp3.1\Object Oriented Abusing.runtimeconfig.dev.json
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\bin\Debug\netcoreapp3.1\Object Oriented Abusing.dll
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\bin\Debug\netcoreapp3.1\Object Oriented Abusing.pdb
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\obj\Debug\netcoreapp3.1\Object Oriented Abusing.csprojAssemblyReference.cache
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\obj\Debug\netcoreapp3.1\Object Oriented Abusing.csproj.CoreCompileInputs.cache
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\obj\Debug\netcoreapp3.1\Object Oriented Abusing.AssemblyInfoInputs.cache
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\obj\Debug\netcoreapp3.1\Object Oriented Abusing.AssemblyInfo.cs
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\obj\Debug\netcoreapp3.1\Object Oriented Abusing.dll
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\obj\Debug\netcoreapp3.1\Object Oriented Abusing.pdb
+C:\Users\Mahmo\source\repos\Object Oriented Abusing\Object Oriented Abusing\obj\Debug\netcoreapp3.1\Object Oriented Abusing.genruntimeconfig.cache
